@@ -16,6 +16,7 @@ A documentation-reviewed collection maintained by QuicqDev. Follow source links 
 - [AnythingLLM](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/anythingllm.md): Ask questions across a collection of documents. Evidence: documentation-reviewed.
 - [Open WebUI](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/open-webui.md): Use a browser interface with a locally hosted model. Evidence: documentation-reviewed.
 - [Khoj](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/khoj.md): Connect personal notes to a conversational assistant. Evidence: documentation-reviewed.
+- [Screenpipe](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/screenpipe.md): Recall something seen across apps or retrieve meeting context for an assistant. Evidence: documentation-reviewed.
 - [Buzz](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/buzz.md): Turn recordings into searchable text and subtitle files. Evidence: documentation-reviewed.
 - [Vibe](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/vibe.md): Generate transcripts without wiring together a Python pipeline. Evidence: documentation-reviewed.
 - [OpenWhispr](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/openwhispr.md): Speak text into the application you are already using. Evidence: documentation-reviewed.
