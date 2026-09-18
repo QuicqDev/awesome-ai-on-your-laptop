@@ -2,7 +2,7 @@
 
 Find local AI apps for document chat, transcription, dictation, image editing and coding, with setup requirements, source links and practical caveats.
 
-**16 curated entries** · [Browse by task](#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](catalog.json) · [Agent index](llms.txt)
+**17 curated entries** · [Browse by task](#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](catalog.json) · [Agent index](llms.txt)
 
 Choose a useful task, compare the setup, then follow the original project. This collection covers desktop apps and a small set of supporting tools for Windows, macOS and Linux. Local execution is configuration-specific; cloud options are called out where relevant.
 
@@ -25,6 +25,7 @@ Hardware requirements depend on model, quantization, context length and workload
 ## Browse by task
 
 - [Chat and documents](#chat-and-documents)
+- [Personal memory](#personal-memory)
 - [Transcription and dictation](#transcription-and-dictation)
 - [Voice generation](#voice-generation)
 - [Images and design](#images-and-design)
@@ -39,6 +40,12 @@ Hardware requirements depend on model, quantization, context length and workload
 | [AnythingLLM](projects/anythingllm.md) · [upstream](https://github.com/Mintplex-Labs/anything-llm) | Ask questions across a collection of documents. | Desktop build or self-hosted installation; configure the chat and embedding models. |
 | [Open WebUI](projects/open-webui.md) · [upstream](https://github.com/open-webui/open-webui) | Use a browser interface with a locally hosted model. | Python or container setup plus a compatible model backend. |
 | [Khoj](projects/khoj.md) · [upstream](https://github.com/khoj-ai/khoj) | Connect personal notes to a conversational assistant. | Self-hosted service and a configured model provider. |
+
+## Personal memory
+
+| Project | Useful for | Setup and requirements |
+|---|---|---|
+| [Screenpipe](projects/screenpipe.md) · [upstream](https://github.com/screenpipe/screenpipe) | Recall something seen across apps or retrieve meeting context for an assistant. | macOS or Windows app, or Linux source build; grant capture permissions. For local AI, configure local transcription and a local model such as Ollama. MCP needs a running Screenpipe instance and the documented local API key. |
 
 ## Transcription and dictation
 
