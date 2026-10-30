@@ -2,7 +2,7 @@
 
 Find local AI apps for document chat, transcription, dictation, image editing and coding, with setup requirements, source links and practical caveats.
 
-**16 curated entries** · [Browse by task](#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](catalog.json) · [Agent index](llms.txt)
+**17 curated entries** · [Browse by task](#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](catalog.json) · [Agent index](llms.txt)
 
 Choose a useful task, compare the setup, then follow the original project. This collection covers desktop apps and a small set of supporting tools for Windows, macOS and Linux. Local execution is configuration-specific; cloud options are called out where relevant.
 
@@ -48,6 +48,7 @@ Hardware requirements depend on model, quantization, context length and workload
 | [Vibe](projects/vibe.md) · [upstream](https://github.com/thewh1teagle/vibe) | Generate transcripts without wiring together a Python pipeline. | Supported desktop build and downloaded model; inspect GPU backend support for your OS. |
 | [OpenWhispr](projects/openwhispr.md) · [upstream](https://github.com/OpenWhispr/openwhispr) | Speak text into the application you are already using. | Windows, macOS or Linux; microphone access and a selected speech model. |
 | [whisper.cpp](projects/whisper-cpp.md) · [upstream](https://github.com/ggml-org/whisper.cpp) | Build an offline transcription command or lightweight voice interface. | A downloaded Whisper model and matching build; CPU-only inference and several GPU backends are available. |
+| [Karaoke Captions](projects/karaoke-captions.md) · [upstream](https://karaokecaptions.com/) | Turn local video into editable animated captions and MP4, SRT or VTT exports. | Desktop Chrome or Edge recommended for MP4 export; initial app and speech-model download, then local processing. |
 
 ## Voice generation
 
