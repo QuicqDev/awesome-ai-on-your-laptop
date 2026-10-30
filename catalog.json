@@ -171,6 +171,22 @@
       "verification": "documentation-reviewed"
     },
     {
+      "id": "karaoke-captions",
+      "name": "Karaoke Captions",
+      "url": "https://karaokecaptions.com/",
+      "category": "Transcription and dictation",
+      "summary": "Browser-based word-by-word video caption editor using on-device Whisper speech recognition.",
+      "use_case": "Turn local video into editable animated captions and MP4, SRT or VTT exports.",
+      "requirements": "Desktop Chrome or Edge recommended for MP4 export; initial app and speech-model download, then local processing.",
+      "caveat": "Proprietary freemium app. Classic and Lyrics exports are watermark-free; Pro trial exports carry a small watermark. Transcripts need review, and speed depends on the device.",
+      "source_urls": [
+        "https://karaokecaptions.com/features/",
+        "https://karaokecaptions.com/pricing/"
+      ],
+      "reviewed_on": "2026-10-30",
+      "verification": "documentation-reviewed"
+    },
+    {
       "id": "piper",
       "name": "Piper",
       "url": "https://github.com/OHF-Voice/piper1-gpl",

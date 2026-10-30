@@ -20,6 +20,7 @@ A documentation-reviewed collection maintained by QuicqDev. Follow source links 
 - [Vibe](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/vibe.md): Generate transcripts without wiring together a Python pipeline. Evidence: documentation-reviewed.
 - [OpenWhispr](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/openwhispr.md): Speak text into the application you are already using. Evidence: documentation-reviewed.
 - [whisper.cpp](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/whisper-cpp.md): Build an offline transcription command or lightweight voice interface. Evidence: documentation-reviewed.
+- [Karaoke Captions](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/karaoke-captions.md): Turn local video into editable animated captions and MP4, SRT or VTT exports. Evidence: documentation-reviewed.
 - [Piper](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/piper.md): Generate spoken narration from text using a local voice. Evidence: documentation-reviewed.
 - [Upscayl](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/upscayl.md): Enlarge an image with a simple graphical workflow. Evidence: documentation-reviewed.
 - [InvokeAI](https://raw.githubusercontent.com/QuicqDev/awesome-ai-on-your-laptop/main/projects/invokeai.md): Work on generated images with a visual canvas workflow. Evidence: documentation-reviewed.

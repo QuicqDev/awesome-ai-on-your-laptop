@@ -2,7 +2,7 @@
 
 Find local AI apps for document chat, transcription, dictation, image editing and coding, with setup requirements, source links and practical caveats.
 
-**16 curated entries** · [Browse by task](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/README.md#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/catalog.json) · [Agent index](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/llms.txt)
+**17 curated entries** · [Browse by task](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/README.md#browse-by-task) · [Suggest a project](https://github.com/QuicqDev/awesome-ai-on-your-laptop/issues/new?template=suggest-project.yml) · [JSON catalog](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/catalog.json) · [Agent index](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/llms.txt)
 
 Choose a useful task, compare the setup, then follow the original project. This collection covers desktop apps and a small set of supporting tools for Windows, macOS and Linux. Local execution is configuration-specific; cloud options are called out where relevant.
 
@@ -48,6 +48,7 @@ Hardware requirements depend on model, quantization, context length and workload
 | [Vibe](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/projects/vibe.md) · [upstream](https://github.com/thewh1teagle/vibe) | Generate transcripts without wiring together a Python pipeline. | Supported desktop build and downloaded model; inspect GPU backend support for your OS. |
 | [OpenWhispr](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/projects/openwhispr.md) · [upstream](https://github.com/OpenWhispr/openwhispr) | Speak text into the application you are already using. | Windows, macOS or Linux; microphone access and a selected speech model. |
 | [whisper.cpp](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/projects/whisper-cpp.md) · [upstream](https://github.com/ggml-org/whisper.cpp) | Build an offline transcription command or lightweight voice interface. | A downloaded Whisper model and matching build; CPU-only inference and several GPU backends are available. |
+| [Karaoke Captions](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/projects/karaoke-captions.md) · [upstream](https://karaokecaptions.com/) | Turn local video into editable animated captions and MP4, SRT or VTT exports. | Desktop Chrome or Edge recommended for MP4 export; initial app and speech-model download, then local processing. |
 
 ## Voice generation
 
@@ -329,6 +330,32 @@ Use the upstream documentation for installation and examples. We link to the cre
 ## Improve this entry
 
 Submit a correction or a compatibility report through [the contribution guide](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/CONTRIBUTING.md). Entry ID: `whisper-cpp`.
+
+
+# Karaoke Captions: Turn local video into editable animated captions and MP4, SRT or VTT exports
+
+Browser-based word-by-word video caption editor using on-device Whisper speech recognition.
+
+[Upstream project](https://karaokecaptions.com/) · [Back to collection](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/README.md#transcription-and-dictation)
+
+| Field | Details |
+|---|---|
+| Category | Transcription and dictation |
+| Use case | Turn local video into editable animated captions and MP4, SRT or VTT exports. |
+| Requirements | Desktop Chrome or Edge recommended for MP4 export; initial app and speech-model download, then local processing. |
+| Caveat | Proprietary freemium app. Classic and Lyrics exports are watermark-free; Pro trial exports carry a small watermark. Transcripts need review, and speed depends on the device. |
+| Evidence | documentation-reviewed |
+| Documentation reviewed | 2026-10-30 |
+
+## Sources and getting started
+
+[Source 1](https://karaokecaptions.com/features/) · [Source 2](https://karaokecaptions.com/pricing/)
+
+Use the upstream documentation for installation and examples. We link to the creator’s demonstrations rather than presenting their work as our own. Confirm current software and model terms before use.
+
+## Improve this entry
+
+Submit a correction or a compatibility report through [the contribution guide](https://github.com/QuicqDev/awesome-ai-on-your-laptop/blob/main/CONTRIBUTING.md). Entry ID: `karaoke-captions`.
 
 
 # Piper: Generate spoken narration from text using a local voice
